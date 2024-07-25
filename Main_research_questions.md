@@ -8,6 +8,8 @@
 
 **Symmetry in attractors**: The attractors are surprisingly symmetric. Analyzing more complex sounds by verifying that the symmetric structures do not show up anymore may be useful to discard that the symmetric shapes are just artefacts.
 
-**Topological Invariants**: The winding number and rotation rate of the spirals may be potentially interesting topological quanties, that may turn out to be invariant under certain conditions.
+**Topological Invariants**: The winding number and rotation rate of the spirals may be potentially interesting topological quanties, that may turn out to be invariant under certain conditions. 
+
+*persistent cohomology might be a useful tool for describing the dynamical flow of topological manifolds*
 
 **Embedding parameters**: Intuitively, by increasing the embedding dimension the spiral arms get stretched and disentangle (?).

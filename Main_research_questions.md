@@ -14,6 +14,9 @@
 
 **Embedding parameters**: Intuitively, by increasing the embedding dimension the spiral arms get stretched and disentangle (?).
 
+**persistent cohomology over persistent homology**: I may guess that homology only captures the structures (loops, voids, etc.) but fails to capture the dynamics? I know persistent homology can identify loop structures in reconstructed attractors from this data, but I am unsure how to understand the flow dynamics within the attractor. Could cohomology provide this insight?
+
+
 
 ### Other intresting questions
 

@@ -13,3 +13,21 @@
 *persistent cohomology might be a useful tool for describing the dynamical flow of topological manifolds*
 
 **Embedding parameters**: Intuitively, by increasing the embedding dimension the spiral arms get stretched and disentangle (?).
+
+
+### Other intresting questions
+
+Is there a music theory of bird songs?
+
+Why do we find bird songs melodic?
+
+To what extent can we reconstruct the bird songs patterns from harmonic principles?
+
+How do these bird patterns look like played on a human instrument? (e.g. piano))
+(maybe like transcribing orchestral music with many instruments into music of a single instrument by identifying the relevant underlying harmonic patterns)
+
+
+Do the patterns found in the bird songs match human patterns?
+
+
+

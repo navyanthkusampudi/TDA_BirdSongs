@@ -19,7 +19,7 @@
 
 ### Topology and Chaos
 
-Book: [The Topology of Chaos: Alice in Stretch and Squeezeland, Prof. Robert Gilmore, Prof. Marc Lefranc](https://onlinelibrary.wiley.com/doi/book/10.1002/9783527639403)
+Book: [The Topology of Chaos: Alice in Stretch and Squeezeland, Prof. Robert Gilmore, Prof. Marc Lefranc](https://onlinelibrary.wiley.com/doi/book/10.1002/9783527639403)  The concept of bounding tori, which may be potentially interesting.
 
 
 ### Others

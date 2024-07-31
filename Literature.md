@@ -22,6 +22,12 @@
 Book: [The Topology of Chaos: Alice in Stretch and Squeezeland, Prof. Robert Gilmore, Prof. Marc Lefranc](https://onlinelibrary.wiley.com/doi/book/10.1002/9783527639403)  The concept of bounding tori, which may be potentially interesting.
 
 
-### Others
 
+#### Bird SOng analysis
+[Chaos in Bird Vocalizations](https://e.math.cornell.edu/people/belk/projects/PaulMcLaughlin.pdf)
+
+[A class of chaotic bird calls?, N. H. Fletcher](https://doi.org/10.1121/1.429615)
+
+
+### Others
 [Embeddings of low-dimensional strange attractors: Topological invariants and degrees of freedom](https://doi.org/10.1103/PhysRevE.75.066214)
